@@ -68,3 +68,5 @@ This is where value of ACC can shine: by showing a grid pairing what qualities o
 The Capabilities themselves should not be test cases themselves: they're intended to be higher level. They can serve as a good starting point for a manual testing tour, or as a classification under which you can define test cases.
 
 Once you've defined your Capabilities, you're ready to start using the risk assessment portions of Test Analytics to start visualizing the parts of your application that need attention.
+
+(REF)[https://code.google.com/archive/p/test-analytics/wikis/AccExplained.wiki]
