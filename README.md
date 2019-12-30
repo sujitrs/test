@@ -69,4 +69,4 @@ The Capabilities themselves should not be test cases themselves: they're intende
 
 Once you've defined your Capabilities, you're ready to start using the risk assessment portions of Test Analytics to start visualizing the parts of your application that need attention.
 
-(REF)[https://code.google.com/archive/p/test-analytics/wikis/AccExplained.wiki]
+[Reference](https://code.google.com/archive/p/test-analytics/wikis/AccExplained.wiki)
